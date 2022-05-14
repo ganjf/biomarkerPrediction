@@ -5,7 +5,8 @@
 2. Install MMDetection following https://github.com/open-mmlab/mmdetection.
 3. Install SLS code: `git clone https://github.com/ganjf/biomarkerPrediction.git`
 
-3. Set the biomarker documentation with format following [TMB_CPTAC_LUAD.txt](https://drive.google.com/file/d/1uOb6-L5OaHRh8d3nFcnnJdJLqGuCTa6T/view?usp=sharing)
+3. Set the biomarker documentation with format following [TMB_CPTAC_LUAD.txt](https://drive.google.com/file/d/1uOb6-L5OaHRh8d3nFcnnJdJLqGuCTa6T/view?usp=sharing).
+4. The WSI demo case could be downloaded from [TCGA-44-8117-01A-01-BS1](https://drive.google.com/file/d/18vZInQZNlgfAQN-_HAYfRWvtJ7erPp5G/view?usp=sharing).
 
 ## Dataset Download
 
