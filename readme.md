@@ -16,9 +16,9 @@
 ## Visualization
 
 - TCGA-44-2666-01A-01-BS1(TMB = 23, TMB-High probability = 0.108)
-  - <img src="./visualization/TCGA-44-2666-01A-01-BS1.png" align="left" alt="x" style="zoom:25%;" />
+  - <img src="./visualization/TCGA-44-2666-01A-01-BS1.png" align="left" alt="x" style="zoom:15%;" />
 - TCGA-44-8117-01A-01-BS1(TMB = 586, TMB-High probability = 0.869)
-  - <img src="./visualization/TCGA-44-8117-01A-01-BS1.png" align="left" style="zoom:20%;" />
+  - <img src="./visualization/TCGA-44-8117-01A-01-BS1.png" align="left" style="zoom:10%;" />
 
 ## How to run
 
